@@ -118,10 +118,12 @@ The final model should:
 
 ## Model Performance Results
 
-### Logistic Regression
 <img width="497" height="780" alt="image" src="https://github.com/user-attachments/assets/cdfc958d-db8b-4d80-b5b7-632b4f71ae25" />
 ]
 
+## Final Model Selection
+
+Logistic Regression achieved the highest accuracy (87.5%) and balanced precision-recall performance, making it the selected model for deployment.
 
 ## Business Impact
 
